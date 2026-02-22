@@ -1,0 +1,7 @@
+{
+  "name": "CrimsonLens AI Enhancer",
+  "description": "A high-end image enhancement and re-imagining studio powered by Gemini AI, featuring a sleek dark and red aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
